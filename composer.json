@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/mp_darkness",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "homepage": "",
+    "description": "magento free theme mp_darkness",
+    "authors": [
+    {
+        "name": "magpassion",
+        "email": "magentopassion@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
